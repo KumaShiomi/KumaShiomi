@@ -9,3 +9,4 @@ I am Kuma Shiomi, you can call me Kuma or Bear (or any variation of "Bear" if yo
 
 ## osu! Stats
 [![osu! stats](https://osu-stats-signature.vercel.app/card?user=WhiteNeeko&mode=std&lang=en&animation=true)](https://osu.ppy.sh/users/19461149)
+[![HSR stats](https://www.hsr-showcase.com/u/801880568)
